@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 # Bio
-Write brief bio here and link to research page
+Write brief bio here and link to research page [here](/publications/)
 

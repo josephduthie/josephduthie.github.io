@@ -24,16 +24,16 @@ repository               : "josephduthie/josephduthie.github.io"
 author:
   # Biographic information
   avatar           : "ProfilePicture.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Joseph Duthie"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "DPhil Student in Mathematics, focussing on geometric flows and exceptional holonomy"
   location         : "Oxford"
   employer         : "University of Oxford"
-  uri              : # URL
-  email            : "joseph (dot) duthie @ maths (dot) ox (dot) ac (dot) uk" 
+  uri              : "https://www.maths.ox.ac.uk/people/joseph.duthie"
+  #email            : "joseph (dot) duthie @ maths (dot) ox (dot) ac (dot) uk" 
 
   # Academic websites
-  academia         : "https://www.maths.ox.ac.uk/people/joseph.duthie"
+  #academia         : "https://www.maths.ox.ac.uk/people/joseph.duthie"
   arxiv            : "https://arxiv.org/a/duthie_j_1.html"
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
  # inspire-hep      : # URL

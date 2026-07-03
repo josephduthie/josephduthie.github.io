@@ -5,9 +5,9 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Flows of Spin(7)-structures<br />London Online Geometry Reading Seminar; Online",
+    43.5904719,
+    3.8595132
   ],
   [
     "Four Manifolds with Positive Isotropic Curvature<br />Oxford Geometry Reading Seminar; Oxford",

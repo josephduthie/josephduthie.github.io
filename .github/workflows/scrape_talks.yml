@@ -14,15 +14,16 @@ jobs:
       contents: write           # This workflow pushes to the repository
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.9'   # Specify the Python version you need
+        python-version: '3.11'   # Updated to Python 3.11 for better compatibility
 
     - name: Install dependencies
       run: |
+        pip install --upgrade pip
         pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
         pip install getorg --upgrade
 

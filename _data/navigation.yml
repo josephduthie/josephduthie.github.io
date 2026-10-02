@@ -9,16 +9,16 @@
 
 main:
   - title: "Research"
-    url: /publications/
+    url: /#research
 
-  #- title: "Talks"
-  #  url: /talks/
+  - title: "Talks"
+    url: /#talks
 
-  #- title: "Teaching"
-  #  url: /teaching/
+  - title: "Teaching"
+    url: /#teaching
 
-  #- title: "Conferences"
-  #  url: /conferences/
+  - title: "Conferences"
+    url: /#conferences
 
   #- title: "CV"
   #  url: /cv/

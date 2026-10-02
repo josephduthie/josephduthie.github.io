@@ -1,0 +1,13 @@
+- title: "Example Conference 2025"
+  venue: "Conference Centre"
+  location: "Oxford, UK"
+  date: "2025-06-15"
+  url: "https://example.com"
+  description: "Example entry for your conference list. Replace with your real attendance details."
+
+- title: "Another Conference"
+  venue: "Main Hall"
+  location: "London, UK"
+  date: "2024-09-20"
+  url: "https://example.com"
+  description: "Add a short summary of the event or your role there."

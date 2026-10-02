@@ -11,7 +11,7 @@ Below is a list of conferences I have attended:
 
 ### {{ conference.title }}
 
-**{{ conference.date }}** • {{ conference.location }} • {{ conference.venue }}
+{{ conference.date }} • {{ conference.location }} • {{ conference.venue }}
 
 {{ conference.description }}
 

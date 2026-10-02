@@ -9,7 +9,7 @@ Below is a list of conferences I have attended:
 
 {% for conference in site.data.conferences %}
 
-### [{{ conference.title }}]({{ conference.url }})
+### {{ conference.title }}
 
 **{{ conference.date }}** • {{ conference.location }} • {{ conference.venue }}
 

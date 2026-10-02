@@ -11,19 +11,17 @@ main:
   - title: "Research"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  #- title: "Talks"
+  #  url: /talks/
 
-  - title: "Conferences"
-    url: /conferences/
+  #- title: "Teaching"
+  #  url: /teaching/
 
-  - title: "Teaching"
-    url: /teaching/
-
+  #- title: "Conferences"
+  #  url: /conferences/
 
   #- title: "CV"
   #  url: /cv/
 
   # - title: "CV"
   #   url: /cv-json/
-

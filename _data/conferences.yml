@@ -7,30 +7,22 @@
   date: "24 - 28 August 2026"
   description: "Invited Speaker"
 
-  - title: "Geometry, Holonomy and Structures with Torsion"
+- title: "Geometry, Holonomy and Structures with Torsion"
   location: "Münster, Germany"
   date: "23 - 27 March 2026"
 
-   - title: "Flows and Singular Spaces"
+- title: "Flows and Singular Spaces"
   location: "Nantes, France"
   date: "23 - 27 June 2025"
 
-  - title: "Third Meeting of the UK Metric Geometry and Analysis network"
-    location: "Oxford, UK"
-    date: "16 April 2025"
+- title: "Third Meeting of the UK Metric Geometry and Analysis network"
+  location: "Oxford, UK"
+  date: "16 April 2025"
 
 - title: "London Gauge Theory Days"
   location: "London, UK"
   date: "17 March 2025"
 
-  - title: "Geometric Flows and Quantization of Kähler Metrics"
-    location: "Brussels, Belgium"
-    date: "27 - 31 January 2025"
-
-  
-
-
-  
-
-  
-
+- title: "Geometric Flows and Quantization of Kähler Metrics"
+  location: "Brussels, Belgium"
+  date: "27 - 31 January 2025"
